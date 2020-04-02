@@ -118,7 +118,7 @@ app.get('/weather', (req,res)=>{
         
     })
 
-  
+  console.log()
 
     // res.send({
     //     products:[]
